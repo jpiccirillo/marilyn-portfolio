@@ -4,6 +4,7 @@ import Home from '../views/Home.vue'
 import AboutMe from '../views/AboutMe.vue'
 import FAQ from '../views/FAQ.vue'
 import Contact from '../views/Contact.vue'
+import { toggleSidebar } from '../services/sidebar'
 
 Vue.use(VueRouter)
 
@@ -56,6 +57,7 @@ const router = new VueRouter({
 router.beforeEach(async (to, from, next) => {
   document.title =
     `Marilyn Piccirillo :: ${to.meta.title(to)}` || 'Marilyn Piccirillo'
+  toggleSidebar()
   next()
 })
 

@@ -1,7 +1,7 @@
 <template>
   <div>
     <div id="menu">
-      <div id="menu-bar" @click="menuOnClick">
+      <div id="x" @click="menuOnClick">
         <div id="bar1" class="bar"></div>
         <div id="bar2" class="bar"></div>
         <div id="bar3" class="bar"></div>
@@ -20,13 +20,13 @@
 </template>
 
 <script>
+import { toggleSidebar } from '../services/sidebar'
+
 export default {
   name: 'Navbar',
   methods: {
     menuOnClick() {
-      document.getElementById('menu-bar').classList.toggle('change')
-      document.getElementById('nav').classList.toggle('change')
-      document.getElementById('menu-bg').classList.toggle('change-bg')
+      toggleSidebar()
     },
   },
 }
@@ -45,11 +45,11 @@ export default {
 }
 
 .nav,
-#menu-bar {
+#x {
   z-index: 10;
 }
 
-#menu-bar {
+#x {
   width: 25px;
   height: 40px;
   margin: 35px 0 20px 20px;
