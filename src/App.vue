@@ -1,22 +1,62 @@
 <template>
   <div id="app">
+    <Navbar />
     <router-view id="router" />
   </div>
 </template>
 
 <script>
+import Navbar from './components/Navbar.vue'
+
 export default {
   name: 'App',
+  components: { Navbar },
 }
 </script>
 
-<style>
+<style lang="scss">
+:root {
+  --font-black: black;
+  --navbar-background: aliceblue;
+  --navbar-border: #b3cee6;
+}
+
+html,
+body,
+#app,
+#router {
+  height: 100%;
+  width: 100%;
+}
+
+#router {
+  overflow: scroll;
+}
+
+html {
+  overflow: scroll;
+}
+
+body {
+  margin: 0px;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 400;
+}
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Public Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  display: grid;
+  grid-template-rows: 85px auto;
+}
+
+.oblique {
+  font-style: oblique;
 }
 </style>

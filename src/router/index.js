@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+import Home from '../views/Home.vue'
 import AboutMe from '../views/AboutMe.vue'
 import FAQ from '../views/FAQ.vue'
 import Contact from '../views/Contact.vue'
@@ -10,9 +11,17 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: AboutMe,
+    component: Home,
     meta: {
       title: () => 'Home',
+    },
+  },
+  {
+    path: '/about-me',
+    name: 'About',
+    component: AboutMe,
+    meta: {
+      title: () => 'About Me',
     },
   },
   {
