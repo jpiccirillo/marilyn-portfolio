@@ -50,6 +50,7 @@ h2,
 h3 {
   font-weight: 400;
   margin: 0px;
+  font-family: 'Sono';
 }
 
 #app {

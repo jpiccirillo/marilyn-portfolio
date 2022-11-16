@@ -33,6 +33,16 @@ export default {
   width: 100%;
 }
 
+.background,
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -10;
+}
+
 .background {
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -58,7 +68,6 @@ export default {
 
 .card-container {
   display: grid;
-  align-items: center;
   justify-items: center;
   max-width: 100vw;
 }
