@@ -35,6 +35,8 @@ export default {
   background-color: var(--navbar-background);
   border-bottom: 2px solid var(--navbar-border);
   width: 100%; /* Full width */
+  position: fixed;
+  z-index: 10;
 }
 
 .banner {

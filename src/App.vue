@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <div class="filler"></div>
     <Navbar />
     <router-view id="router" />
   </div>
@@ -31,6 +32,9 @@ body,
 
 #router {
   overflow: scroll;
+  &.change {
+    z-index: -10;
+  }
 }
 
 html {
@@ -45,6 +49,7 @@ h1,
 h2,
 h3 {
   font-weight: 400;
+  margin: 0px;
 }
 
 #app {

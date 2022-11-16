@@ -36,7 +36,7 @@ export default {
 <style scoped lang="scss">
 #menu {
   display: grid;
-  overflow: hidden;
+  // overflow: hidden;
   height: calc(100% - 50px);
   padding-bottom: 50px;
   padding-left: 50px;
