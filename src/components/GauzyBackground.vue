@@ -17,7 +17,7 @@ export default {
   computed: {
     style() {
       return {
-        background: `url(${this.background}) no-repeat center center fixed`,
+        'background-image': `url(${this.background})`,
       }
     },
   },
@@ -48,6 +48,7 @@ export default {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-position: center;
 }
 
 .background-container {

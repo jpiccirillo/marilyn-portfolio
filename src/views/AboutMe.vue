@@ -118,48 +118,6 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-* {
-  text-align: left;
-}
-
-pre {
-  display: inline-block;
-  margin: 0px;
-}
-
-.card {
-  background-color: var(--navbar-background);
-  opacity: 0.9;
-  border-radius: 3px;
-  padding: 30px;
-  box-sizing: border-box;
-  break-inside: avoid;
-  margin-bottom: 30px;
-}
-
-.grid {
-  column-count: 2;
-  column-gap: 30px;
-  grid-gap: 30px;
-  row-gap: 30px;
-  max-width: 1100px;
-  width: 80%;
-  margin: 30px;
-}
-
-ul {
-  margin-bottom: 0px;
-}
-
-p:last-child {
-  margin-bottom: 0px;
-}
-
-@media screen and (max-width: 700px) {
-  .grid {
-    column-count: 1;
-  }
-}
+@import '../assets/cardStyle.scss';
 </style>
