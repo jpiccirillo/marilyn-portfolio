@@ -16,7 +16,14 @@
       </div>
       <div class="card b">
         <h1>Email</h1>
-        <p class="monospace">drmarilynpiccirillo@gmail.com</p>
+        <p>
+          <a
+            class="monospace"
+            :href="`mailto:${email}?subject=${subject}&body=${body}`"
+          >
+            drmarilynpiccirillo@gmail.com
+          </a>
+        </p>
       </div>
       <div class="card c">
         <h1>Google Voice</h1>
@@ -34,6 +41,14 @@ import GauzyBackground from '../components/GauzyBackground.vue'
 export default {
   name: 'Contact',
   components: { GauzyBackground },
+  data() {
+    return {
+      email: 'drmarilynpiccirillo@gmail.com',
+      subject: 'Psycology Therapy Outreach',
+      body:
+        "Hi there, I am interested in a 15 minute phone consultation - I'm primarily interested in discussing ...",
+    }
+  },
 }
 </script>
 
