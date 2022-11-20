@@ -73,4 +73,7 @@ export default {
   grid-template-rows: min-content min-content;
   max-width: 100vw;
 }
+.vertically-center .card-container {
+  align-content: center;
+}
 </style>
