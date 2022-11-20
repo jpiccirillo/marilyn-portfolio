@@ -1,6 +1,6 @@
 <template>
-  <GauzyBackground :background="require('../assets/blurrySea.webp')">
-    <div class="grid">
+  <GauzyBackground :background="require('@/assets/cannonBeach.jpg')">
+    <div class="grid two-columns">
       <div class="card">
         <h1>About Me</h1>
         <p>
@@ -118,6 +118,6 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 @import '../assets/cardStyle.scss';
 </style>

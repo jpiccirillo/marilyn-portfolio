@@ -1,6 +1,6 @@
 <template>
   <GauzyBackground :background="require('../assets/waterfall2.webp')">
-    <div class="grid">
+    <div class="grid two-columns">
       <div class="card">
         <h1>When, where, and for how long will we meet?</h1>
         <p>

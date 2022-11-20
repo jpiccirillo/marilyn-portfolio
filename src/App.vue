@@ -65,4 +65,8 @@ h3 {
 .oblique {
   font-style: oblique;
 }
+
+ul {
+  padding-left: 15px;
+}
 </style>

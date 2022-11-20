@@ -17,7 +17,7 @@ export default {
   computed: {
     style() {
       return {
-        'background-image': `url(${this.background})`,
+        backgroundImage: `url(${this.background})`,
       }
     },
   },
@@ -70,6 +70,7 @@ export default {
 .card-container {
   display: grid;
   justify-items: center;
+  grid-template-rows: min-content min-content;
   max-width: 100vw;
 }
 </style>
