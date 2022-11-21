@@ -64,7 +64,7 @@ h3 {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   display: grid;
-  grid-template-rows: 100px auto;
+  grid-template-rows: 95px auto;
 }
 
 .oblique {

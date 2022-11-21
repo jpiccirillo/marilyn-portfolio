@@ -54,20 +54,8 @@
       </div>
       <!-- </div> -->
       <!-- <div class="column2"> -->
-      <div class="card">
-        <h1>Education and Licensure</h1>
-        <ul>
-          <li>
-            Temple University (Masters)
-          </li>
-          <li>Washington University in St. Louis (Doctorate)</li>
-          <li>
-            Licensed in Washington: PY61122055M
-          </li>
-          <li>
-            Licensed in New York: 025345
-          </li>
-        </ul>
+      <div class="headshot">
+        <img src="../assets/headshot.jpg" />
       </div>
       <div class="card">
         <h1>Experience</h1>
@@ -100,6 +88,21 @@
           care to US Veterans and their families.
         </p>
       </div>
+      <div class="card">
+        <h1>Education and Licensure</h1>
+        <ul>
+          <li>
+            Temple University (Masters)
+          </li>
+          <li>Washington University in St. Louis (Doctorate)</li>
+          <li>
+            Licensed in Washington: PY61122055M
+          </li>
+          <li>
+            Licensed in New York: 025345
+          </li>
+        </ul>
+      </div>
     </div>
   </GauzyBackground>
 </template>
@@ -118,4 +121,17 @@ export default {
 
 <style scoped lang="scss">
 @import '../assets/gridStyle.scss';
+
+.headshot {
+  width: 100%;
+  box-sizing: border-box;
+  padding-left: 30px;
+  padding-right: 30px;
+  > img {
+    width: 100%;
+    height: 100%;
+    border-radius: 3px;
+    user-select: none;
+  }
+}
 </style>
