@@ -6,8 +6,8 @@
         <p>
           I am licensed to provide telehealth services to adults living in
           Washington and New York. While I deeply value the connection that
-          develops through in-person sessions, <strong>I have found that using
-          telehealth ultimately offers more logistical advantages</strong>. All sessions
+          develops through in-person sessions, I have found that using
+          telehealth ultimately offers more logistical advantages. All sessions
           will take place via a secure, virtual videoconferencing platform.
         </p>
         <p>

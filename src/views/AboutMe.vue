@@ -62,12 +62,10 @@
           </li>
           <li>Washington University in St. Louis (Doctorate)</li>
           <li>
-            Licensed in Washington:
-            <pre>PY61122055M</pre>
+            Licensed in Washington: PY61122055M
           </li>
           <li>
-            Licensed in New York:
-            <pre>025345</pre>
+            Licensed in New York: 025345
           </li>
         </ul>
       </div>

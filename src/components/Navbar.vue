@@ -25,7 +25,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 * {
-  font-family: 'Sono';
+  font-family: 'Alegreya Sans';
   color: black;
 }
 .navbar {
@@ -52,7 +52,9 @@ h2 {
 
 h1 {
   font-size: 15pt;
+  margin-bottom: 5px;
 }
+
 h2 {
   font-size: 14pt;
 }

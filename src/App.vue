@@ -45,12 +45,17 @@ body {
   margin: 0px;
 }
 
+body,
+ul {
+  line-height: 1.4;
+}
+
 h1,
 h2,
 h3 {
   font-weight: 400;
   margin: 0px;
-  font-family: 'Sono';
+  font-family: 'Alegreya Sans';
 }
 
 #app {

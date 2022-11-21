@@ -13,23 +13,17 @@
           services. This phone consultation can also be helpful in determining
           fit for our potential to work together.
         </p>
-      </div>
-      <div class="card b">
-        <h1>Email</h1>
-        <p>
-          <a
-            class="monospace"
-            :href="`mailto:${email}?subject=${subject}&body=${body}`"
-          >
-            drmarilynpiccirillo@gmail.com
-          </a>
-        </p>
-      </div>
-      <div class="card c">
-        <h1>Google Voice</h1>
-        <p class="monospace">
-          (646) 481-0715
-        </p>
+        <div class="contact-options">
+          <div>
+            <a
+              class="monospace"
+              :href="`mailto:${email}?subject=${subject}&body=${body}`"
+            >
+              {{ email }}
+            </a>
+          </div>
+          <div>(646) 481-0715</div>
+        </div>
       </div>
     </div>
   </GauzyBackground>
@@ -44,9 +38,9 @@ export default {
   data() {
     return {
       email: 'drmarilynpiccirillo@gmail.com',
-      subject: 'Psycology Therapy Outreach',
+      subject: 'Interest in Phone Consult',
       body:
-        "Hi there, I am interested in a 15 minute phone consultation - I'm primarily interested in discussing ...",
+        'Hi, I am interested in a 15 minute phone consultation to discuss...',
     }
   },
 }
@@ -54,11 +48,13 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
-@import '../assets/cardStyle.scss';
+.contact-options {
+  display: grid;
+  grid-template-columns: max-content max-content;
+  grid-gap: 10px;
+}
 
 .custom-grid {
-  display: grid;
-  grid-template-areas: 'a a' 'b c';
   margin-top: 30px;
 }
 
@@ -67,13 +63,6 @@ export default {
   word-break: break-all;
   font-family: monospace;
 }
-.a {
-  grid-area: a;
-}
-.b {
-  grid-area: b;
-}
-.c {
-  grid-area: c;
-}
+
+@import '../assets/cardStyle.scss';
 </style>

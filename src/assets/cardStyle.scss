@@ -2,11 +2,6 @@
   text-align: left;
 }
 
-pre {
-  display: inline-block;
-  margin: 0px;
-}
-
 .card {
   background-color: var(--navbar-background);
   opacity: 0.7;
@@ -49,8 +44,8 @@ p:last-child {
     grid-template-columns: 1fr;
   }
 
-  .custom-grid {
-    grid-template-areas: "a" "b" "c" !important;
+  .contact-options {
+    grid-template-columns: 1fr;
   }
 
   h1 {
