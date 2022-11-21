@@ -1,5 +1,5 @@
 <template>
-  <GauzyBackground :background="require('@/assets/cannonBeach.jpg')">
+  <GauzyBackground :background="require('@/assets/beach.jpeg')">
     <div class="grid two-columns">
       <div class="card">
         <h1>About Me</h1>

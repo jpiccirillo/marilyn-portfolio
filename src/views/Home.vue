@@ -1,6 +1,6 @@
 <template>
   <GauzyBackground
-    :background="require('../assets/blurrySea.webp')"
+    :background="require('../assets/sea.webp')"
     class="vertically-center"
   >
     <div class="card-image">
