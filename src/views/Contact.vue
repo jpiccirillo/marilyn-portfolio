@@ -13,17 +13,7 @@
           services. This phone consultation can also be helpful in determining
           fit for our potential to work together.
         </p>
-        <div class="contact-options">
-          <div>
-            <a
-              class="monospace"
-              :href="`mailto:${email}?subject=${subject}&body=${body}`"
-            >
-              {{ email }}
-            </a>
-          </div>
-          <div>(646) 481-0715</div>
-        </div>
+        <ContactInfo />
       </div>
     </div>
   </GauzyBackground>
@@ -31,29 +21,16 @@
 
 <script>
 import GauzyBackground from '../components/GauzyBackground.vue'
+import ContactInfo from '../components/ContactInfo.vue'
 
 export default {
   name: 'Contact',
-  components: { GauzyBackground },
-  data() {
-    return {
-      email: 'drmarilynpiccirillo@gmail.com',
-      subject: 'Interest in Phone Consult',
-      body:
-        'Hi, I am interested in a 15 minute phone consultation to discuss...',
-    }
-  },
+  components: { GauzyBackground, ContactInfo },
 }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
-.contact-options {
-  display: grid;
-  grid-template-columns: max-content max-content;
-  grid-gap: 10px;
-}
-
 .custom-grid {
   margin-top: 30px;
 }

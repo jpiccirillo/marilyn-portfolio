@@ -12,10 +12,17 @@
         <p>― Thích Nhất Hạnh</p>
         <hr />
         <p>
-          Marilyn Portfolio :: Set up Contact Me page Scheduled: Nov 19, 2022 at
-          9:30 PM to 10:15 PM Location: 1220 Gooseberry Ln Chesterfield, MO,
-          United States
+          Welcome!
         </p>
+        <p>
+          I provide cognitive-behavioral therapy to adults living in Washington
+          and New York. I use evidence-based approaches to help manage symptoms
+          of trauma/PTSD, anxiety, OCD, chronic suicidality/self-harm, and
+          substance misuse. My site provides more details about my approach and
+          background and I am happy to talk with you in a 15-min consult to
+          answer additional questions.
+        </p>
+        <ContactInfo class="center" />
       </div>
     </div>
   </GauzyBackground>
@@ -23,13 +30,14 @@
 
 <script>
 import GauzyBackground from '../components/GauzyBackground.vue'
+import ContactInfo from '../components/ContactInfo.vue'
 
 export default {
   name: 'Home',
   props: {
     msg: String,
   },
-  components: { GauzyBackground },
+  components: { GauzyBackground, ContactInfo },
 }
 </script>
 
@@ -50,6 +58,12 @@ export default {
   justify-content: center;
   width: 80%;
   max-width: 800px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: min-content;
 }
 
 @media screen and (max-width: 500px) {
