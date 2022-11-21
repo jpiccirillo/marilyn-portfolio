@@ -4,17 +4,19 @@
     class="vertically-center"
   >
     <div class="card-image">
-      <div class="card vertically-center">
+      <div class="card">
         <p>
-          Hi, I'm Marilyn, and I'm go glad you're here.
-          <br />
-          <br />
-          I use radically empathatic evidence-based approaches to help adults
-          recover from trauma/PTSD, manage symptoms of anxiety, OCD, chronic
-          suicidality and forms of self-harm and substance misuse.
+          "Letting go gives us freedom, and freedom is the only condition for
+          happiness.”
+        </p>
+        <p>― Thích Nhất Hạnh</p>
+        <hr />
+        <p>
+          Marilyn Portfolio :: Set up Contact Me page Scheduled: Nov 19, 2022 at
+          9:30 PM to 10:15 PM Location: 1220 Gooseberry Ln Chesterfield, MO,
+          United States
         </p>
       </div>
-      <img src="../assets/headshot.jpg" class="headshot" />
     </div>
   </GauzyBackground>
 </template>
@@ -33,22 +35,18 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
-.card {
-  height: 100%;
-  border-radius: 20px 0px 0px 20px;
-  align-items: center;
+* {
+  font-family: 'Alegreya Sans';
+  font-size: 14pt;
 }
 
-.headshot {
-  border-radius: 0px 20px 20px 0px;
-  width: 100%;
+.card {
   height: 100%;
-  object-fit: cover;
+  align-items: center;
 }
 
 .card-image {
   display: grid;
-  grid-template-columns: 50% 50%;
   justify-content: center;
   width: 80%;
   max-width: 800px;
@@ -56,17 +54,10 @@ export default {
 
 @media screen and (max-width: 500px) {
   .card-image {
-    display: grid;
-    grid-template-columns: 1fr;
     margin: 10px;
   }
   .card {
-    border-radius: 20px 20px 0px 0px;
     padding: 15px;
-  }
-
-  .headshot {
-    border-radius: 0px 0px 20px 20px;
   }
 }
 </style>
