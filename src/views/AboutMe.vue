@@ -125,13 +125,20 @@ export default {
 .headshot {
   width: 100%;
   box-sizing: border-box;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
   > img {
     width: 100%;
     height: 100%;
     border-radius: 3px;
     user-select: none;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .headshot {
+    padding-left: 100px;
+    padding-right: 100px;
   }
 }
 </style>
