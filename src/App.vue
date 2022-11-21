@@ -64,7 +64,7 @@ h3 {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   display: grid;
-  grid-template-rows: 85px auto;
+  grid-template-rows: 100px auto;
 }
 
 .oblique {
@@ -73,5 +73,17 @@ h3 {
 
 ul {
   padding-left: 15px;
+}
+
+.card {
+  background-color: var(--navbar-background);
+  opacity: 0.9;
+  border-radius: 3px;
+  padding: 30px;
+  box-sizing: border-box;
+  break-inside: avoid;
+  &.vertically-center {
+    display: grid;
+  }
 }
 </style>

@@ -64,5 +64,5 @@ export default {
   font-family: monospace;
 }
 
-@import '../assets/cardStyle.scss';
+@import '../assets/gridStyle.scss';
 </style>

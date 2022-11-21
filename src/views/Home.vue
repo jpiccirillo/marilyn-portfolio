@@ -35,15 +35,8 @@ export default {
 <style scoped lang="scss">
 .card {
   height: 100%;
-  background-color: var(--navbar-background);
-  opacity: 0.9;
-  padding: 30px;
-  box-sizing: border-box;
   border-radius: 20px 0px 0px 20px;
   align-items: center;
-  &.vertically-center {
-    display: grid;
-  }
 }
 
 .headshot {

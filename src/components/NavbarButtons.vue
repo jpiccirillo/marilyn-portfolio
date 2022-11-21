@@ -17,6 +17,7 @@ export default {
 <style scoped lang="scss">
 * {
   font-family: 'Alegreya Sans';
+  font-size: 14pt;
   color: var(--font-black);
 }
 

@@ -123,5 +123,5 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import '../assets/cardStyle.scss';
+@import '../assets/gridStyle.scss';
 </style>
