@@ -58,6 +58,7 @@ export default {
   justify-content: center;
   width: 80%;
   max-width: 800px;
+  margin: 30px;
 }
 
 .center {
@@ -68,7 +69,7 @@ export default {
 
 @media screen and (max-width: 500px) {
   .card-image {
-    margin: 10px;
+    margin: 20px;
   }
   .card {
     padding: 15px;
