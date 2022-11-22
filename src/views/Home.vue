@@ -5,24 +5,23 @@
   >
     <div class="card-image">
       <div class="card">
-        <p>
+        <p class="quote">
           "Letting go gives us freedom, and freedom is the only condition for
           happiness.”
         </p>
         <p>― Thích Nhất Hạnh</p>
         <hr />
         <p>
-          Welcome!
+          I am a clinical psychologist providing psychotherapy to adults living
+          in Washington and New York. I specialize in the treatment of
+          trauma/PTSD, anxiety disorders, and OCD using cognitive-behavioral
+          therapies. I am also skilled in helping to manage chronic suicidality,
+          self-harm, and substance misuse using dialectical behavioral therapy.
+          My approach to therapy is compassionate and authentic and I strive to
+          bring a refreshing sense of realism, balance, and joy into your
+          journey towards better health.
         </p>
-        <p>
-          I provide cognitive-behavioral therapy to adults living in Washington
-          and New York. I use evidence-based approaches to help manage symptoms
-          of trauma/PTSD, anxiety, OCD, chronic suicidality/self-harm, and
-          substance misuse. My site provides more details about my approach and
-          background and I am happy to talk with you in a 15-min consult to
-          answer additional questions.
-        </p>
-        <ContactInfo class="center" />
+        <ContactInfo />
       </div>
     </div>
   </GauzyBackground>
@@ -61,10 +60,8 @@ export default {
   margin: 30px;
 }
 
-.center {
-  margin-left: auto;
-  margin-right: auto;
-  width: min-content;
+.quote {
+  font-style: oblique;
 }
 
 @media screen and (max-width: 500px) {

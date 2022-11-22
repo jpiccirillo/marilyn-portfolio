@@ -1,14 +1,15 @@
 <template>
   <div class="contact-options">
     <div>
+      To learn more or to book an appointment, contact me at
       <a
         class="monospace"
         :href="`mailto:${email}?subject=${subject}&body=${body}`"
       >
         {{ email }}
       </a>
+      or call (646) 481-0715.
     </div>
-    <div>(646) 481-0715</div>
   </div>
 </template>
 <script>
@@ -24,15 +25,7 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-.contact-options {
-  display: grid;
-  grid-template-columns: max-content max-content;
-  grid-gap: 10px;
-}
-
-@media screen and (max-width: 700px) {
-  .contact-options {
-    grid-template-columns: 1fr;
-  }
+a {
+  display: inline-block;
 }
 </style>
