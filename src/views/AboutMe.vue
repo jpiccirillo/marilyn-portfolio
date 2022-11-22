@@ -1,6 +1,9 @@
 <template>
   <GauzyBackground :background="require('@/assets/beach.jpeg')">
     <div class="grid two-columns">
+      <div class="headshot">
+        <img src="../assets/headshot.jpg" />
+      </div>
       <div class="card">
         <h1>About Me</h1>
         <p>
@@ -51,11 +54,6 @@
             </li>
           </ul>
         </ul>
-      </div>
-      <!-- </div> -->
-      <!-- <div class="column2"> -->
-      <div class="headshot">
-        <img src="../assets/headshot.jpg" />
       </div>
       <div class="card">
         <h1>Experience</h1>
@@ -137,8 +135,8 @@ export default {
 
 @media screen and (min-width: 1000px) {
   .headshot {
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
   }
 }
 </style>

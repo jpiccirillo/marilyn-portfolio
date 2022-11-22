@@ -45,8 +45,6 @@
           towards reaching your goals.
         </p>
       </div>
-      <!-- </div> -->
-      <!-- <div class="column2"> -->
       <div class="card">
         <h1>Who do you work best with?</h1>
         <p>
@@ -81,11 +79,9 @@
           My fee for consultation and psychotherapy is available upon request.
         </p>
         <p>
-          I am not paneled with insurance companies and am considered an
-          out-of-network provider. Some clients may be able to use
-          out-of-network benefits to reimburse part of their sessions. I will
-          provide you with a superbill that can be submitted to your insurance
-          company for reimbursement purposes.
+          I am considered an out-of-network provider. However, you may be able
+          to use your insurance benefits to cover part of your sessions. I will
+          provide you with an invoice for reimbursement purposes.
         </p>
         <p>
           Before we begin, I encourage you to ask your insurance provider:

@@ -4,9 +4,8 @@
       <div class="card a">
         <h1>Get in Touch</h1>
         <p>
-          I am licensed to provide psychology services to adults living in
-          Washington state and New York. All services are provided virtually
-          using secure online videoconferencing platforms.
+          I work with adults living in Washington state or New York. All
+          services are provided virtually using a secure telehealth platform.
         </p>
         <p>
           I provide a 15-minute phone consultation to answer questions about my
