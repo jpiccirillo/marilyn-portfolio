@@ -31,14 +31,10 @@ body,
 }
 
 #router {
-  overflow: scroll;
+  overflow-y: scroll;
   &.change {
     z-index: -10;
   }
-}
-
-html {
-  overflow: scroll;
 }
 
 body {
