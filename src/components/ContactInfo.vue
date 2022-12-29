@@ -8,7 +8,7 @@
       >
         {{ email }}
       </a>
-      or call (646) 481-0715.
+      or call (646) 481-0175.
     </div>
   </div>
 </template>
