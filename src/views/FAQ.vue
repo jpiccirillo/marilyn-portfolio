@@ -31,7 +31,7 @@
           At the same time, I believe there is a limit to the amount of change
           that a weekly hour of focused conversation can provide. For that
           reason, I like to describe CBT as an active talk therapy approach. I
-          want to help you get back into doing things that you used to enjoy or
+          want to help you do things that you used to enjoy or
           that used to be less challenging. During session, we'll spend time
           talking about how you can approach rather than avoid stressful
           memories or situations. We'll work towards facing your fears both
