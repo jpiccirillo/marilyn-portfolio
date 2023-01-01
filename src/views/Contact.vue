@@ -8,7 +8,7 @@
           services are provided virtually using a secure telehealth platform.
         </p>
         <p>
-          I provide a 15-minute phone consultation to answer questions about my
+          I provide a 20-minute phone consultation to answer questions about my
           services. This phone consultation can also be helpful in determining
           fit for our potential to work together.
         </p>
