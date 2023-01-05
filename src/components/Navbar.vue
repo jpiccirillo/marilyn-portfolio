@@ -2,7 +2,7 @@
   <nav class="navbar">
     <div class="banner">
       <h1>Marilyn Piccirillo, PhD</h1>
-      <h2 class="oblique">Clinical Psychologist</h2>
+      <h2 class="oblique">Licensed Psychologist</h2>
     </div>
     <NavbarButtons class="large-width-menu" />
     <Hamburger class="small-width-menu" />
