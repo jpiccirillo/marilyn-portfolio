@@ -8,7 +8,7 @@
           Washington and New York using a secure, virtual videoconferencing platform.
         </p>
         <p>
-          Some folks find it's easier to make progress when meeting briefly for a shorter period of time, others will prefer to space sessions out over time. Regardless, I find it's easiest to make progress on an issue when we meet weekly, at least for a short period of time in the beginning. I provide 50 minute sessions.  Our sessions will typically last 50 minutes and I can also provide out-of-session coaching via
+          Some folks find it's easier to make progress when meeting briefly for a shorter period of time, others will prefer to space sessions out over time. Regardless, I find it's easiest to make progress on an issue when we meet weekly, at least for a short period of time in the beginning. Our sessions will typically last 50 minutes and I can also provide out-of-session coaching via
           text as needed.
         </p>
       </div>
