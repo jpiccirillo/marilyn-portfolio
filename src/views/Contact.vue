@@ -4,13 +4,11 @@
       <div class="card a">
         <h1>Get in Touch</h1>
         <p>
-          I work with adults living in Washington state or New York. All
-          services are provided virtually using a secure telehealth platform.
+          I provide teletherapy to adults living in Washington state or New York. 
         </p>
         <p>
-          I provide a 20-minute phone consultation to answer questions about my
-          services. This phone consultation can also be helpful in determining
-          fit for our potential to work together.
+          I provide a 20-minute phone consultation to answer questions about logistics and disucss my
+          approach to therapy. A phone consultation can very helpful in learning more about each other and how we might work together. 
         </p>
         <ContactInfo />
       </div>
