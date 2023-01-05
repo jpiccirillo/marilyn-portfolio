@@ -7,15 +7,12 @@
       <div class="card">
         <h1>About Me</h1>
         <p>
-          I am a clinical psychologist and provide psychotherapy to adults
+          I am a clinical psychologist and provide teletherapy to adults
           living in Washington and New York. I have nearly 10 years of
-          experience using time-limited behavior therapies to help adults
-          recover from trauma/PTSD and manage symptoms of anxiety, OCD, chronic
+          experience helping adults
+          recover from trauma/PTSD or those looking to better understand and manage symptoms of anxiety, OCD, chronic
           suicidality and forms of self-harm, including substance misuse. I
-          adapt evidence-based treatments to fit individual needs and will guide
-          you in learning skills to cope with uncomfortable and distressing
-          emotions. My primary goal is to support you in feeling more confident
-          taking on life's challenges.
+          am skilled at tailoring evidence-based treatments to fit your individual needs. My primary goal is to support you in reaching your goals, whatever they may be!
         </p>
         <p>
           As a human and therapist, I strive to be radically genuine. That means
@@ -33,17 +30,17 @@
       <div class="card">
         <h1>I specialize in providing</h1>
         <ul>
-          <li>Therapy to adults of all ages (18 years and older)</li>
+          <li>Therapy to adults 18 years and older</li>
           <li>
-            Time-limited (often 20 sessions or less) behavior therapy for:
+            Cognitive-behavior therapy for:
           </li>
           <ul>
             <li>Trauma and PTSD</li>
-            <li>Anxiety disorders</li>
+            <li>Anxiety and mood symptoms</li>
             <li>OCD</li>
           </ul>
           <li>
-            Ethical and compassionate care around
+            I strongly value providing ethical and compassionate care around
           </li>
           <ul>
             <li>Suicidal thoughts and behaviors</li>
@@ -80,7 +77,7 @@
         </ul>
         <p>
           I have worked in a variety of medical organizations and am familiar
-          with multiple systems of care, including outpatient, partial hospital,
+          with multiple systems and levels of care, including outpatient, partial hospital,
           inpatient and other crisis care and medical settings. I completed my
           clinical internship in a Veteran's hospital and deeply value providing
           care to US Veterans and their families.
