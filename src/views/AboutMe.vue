@@ -8,7 +8,7 @@
         <h1>About Me</h1>
         <p>
           I am a clinical psychologist and provide teletherapy to adults
-          living in Washington and New York. I have nearly 10 years of
+          living in Washington or New York. I have nearly 10 years of
           experience helping adults
           recover from trauma/PTSD or those looking to better understand and manage symptoms of anxiety, OCD, chronic
           suicidality and forms of self-harm, including substance misuse. I
