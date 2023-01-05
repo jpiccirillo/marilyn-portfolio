@@ -1,7 +1,7 @@
 <template>
   <div class="contact-options">
     <div>
-      To learn more or to book an appointment, contact me at
+      To learn more or to schedule an appointment, contact me at
       <a
         class="monospace"
         :href="`mailto:${email}?subject=${subject}&body=${body}`"
@@ -19,7 +19,7 @@ export default {
       email: 'drmarilynpiccirillo@gmail.com',
       subject: 'Interest in Phone Consult',
       body:
-        'Hi, I am interested in booking a phone consultation to discuss...',
+        'Hi, I am interested in scheduling a phone consultation to discuss...',
     }
   },
 }
