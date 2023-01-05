@@ -19,7 +19,7 @@ export default {
       email: 'drmarilynpiccirillo@gmail.com',
       subject: 'Interest in Phone Consult',
       body:
-        'Hi, I am interested in a 15 minute phone consultation to discuss...',
+        'Hi, I am interested in booking a phone consultation to discuss...',
     }
   },
 }
