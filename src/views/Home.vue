@@ -13,9 +13,10 @@
         <hr />
         <p>
           I am a clinical psychologist providing teletherapy to adults living
-          in Washington and New York. I specialize in using cognitive-behavioral approaches to help adults recover from
+          in Washington or New York. I specialize in using cognitive-behavioral approaches to help adults recover from
           trauma/PTSD, anxiety and mood symptoms, and OCD. I am also skilled in understanding and managing chronic thoughts of death, suicide, or self-harm, as well as substance misuse,
           using dialectical behavioral therapy.
+        <p>
           My approach to therapy is compassionate and authentic and I strive to
           bring a refreshing sense of realism, balance, and joy into your
           journey towards better health.
