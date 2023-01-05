@@ -55,7 +55,7 @@
       <div class="card">
         <h1>Insurance and payment</h1>
         <p>
-          My fees are available upon request.
+          My rates for therapy are available upon request.
         </p>
         <p>
           I am not paneled with insurance companies and so I'm considered an out-of-network provider. However, if your insurance provides out of network benefits, you may be able
