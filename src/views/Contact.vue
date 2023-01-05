@@ -4,11 +4,10 @@
       <div class="card a">
         <h1>Get in Touch</h1>
         <p>
-          I provide teletherapy to adults living in Washington state or New York. 
         </p>
         <p>
           I provide a 20-minute phone consultation to answer questions about logistics and disucss my
-          approach to therapy. A phone consultation can very helpful in learning more about each other and how we might work together. 
+          approach to therapy. A phone consultation can very helpful in learning more about each other and how we might work together. Please reach out, I'd love to hear from you!
         </p>
         <ContactInfo />
       </div>
