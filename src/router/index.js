@@ -26,14 +26,6 @@ const routes = [
     },
   },
   {
-    path: '/faq',
-    name: 'faq',
-    component: FAQ,
-    meta: {
-      title: () => 'FAQ',
-    },
-  },
-  {
     path: '/contact',
     name: 'contact',
     component: Contact,
