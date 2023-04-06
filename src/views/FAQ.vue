@@ -4,7 +4,7 @@
       <div class="card">
         <h1>When, where, and for how long will we meet?</h1>
         <p>
-          I meet via telehealth with adults living in
+          I work with adults living in
           Washington or New York using a secure, virtual videoconferencing platform.
         </p>
         <p>
