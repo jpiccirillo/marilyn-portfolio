@@ -17,9 +17,9 @@ export default {
   data() {
     return {
       email: 'drmarilynpiccirillo@gmail.com',
-      subject: 'Interest in Phone Consult',
+      subject: 'Interest in therapy',
       body:
-        'Hi, I am interested in scheduling a phone consultation to discuss...',
+        'Hi, I am interested in scheduling a [phone consultation / therapy session]...',
     }
   },
 }
