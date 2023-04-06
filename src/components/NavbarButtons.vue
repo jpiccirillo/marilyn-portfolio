@@ -2,7 +2,6 @@
   <ul class="navbar-buttons">
     <li><router-link to="home">Home</router-link></li>
     <li><router-link to="about-me">About Me</router-link></li>
-    <li><router-link to="faq">FAQ</router-link></li>
     <li><router-link to="contact">Contact</router-link></li>
   </ul>
 </template>

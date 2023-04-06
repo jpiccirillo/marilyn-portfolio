@@ -10,7 +10,6 @@
         <ul class="navbar-buttons">
           <li v-show="$route.name !== 'Home'"><router-link to="home">Home</router-link></li>
           <li v-show="$route.name !== 'About'"><router-link to="about-me">About Me</router-link></li>
-          <li v-show="$route.name !== 'faq'"><router-link to="faq">FAQ</router-link></li>
           <li v-show="$route.name !== 'contact'"><router-link to="contact">Contact</router-link></li>
         </ul>
       </nav>
