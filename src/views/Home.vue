@@ -12,14 +12,9 @@
         <p>― Thích Nhất Hạnh</p>
         <hr />
         <p>
-          I am a clinical psychologist providing teletherapy to adults living
-          in Washington or New York. I specialize in using cognitive-behavioral approaches to help adults recover from
-          trauma/PTSD, anxiety and mood symptoms, and OCD. I am also skilled in understanding and managing chronic thoughts of death, suicide, or self-harm, as well as substance misuse,
-          using dialectical behavioral therapy.
-        <p>
-          My approach to therapy is compassionate and authentic and I strive to
-          bring a refreshing sense of realism, balance, and joy into your
-          journey towards better health.
+          Welcome! I'm so glad you are here!
+            </p>
+          I provide authentic, compassionate, and evidence-based treatment for individuals and couples struggling with stress, issues with self-esteem, relationship difficulties, and mental health symptoms. I have nearly 10 years of specialized experience working with folks experiencing anxiety, PTSD, OCD, substance misuse, or chronic thoughts of suicide. I offer virtual therapy to adults living in Washington or New York. 
         </p>
         <ContactInfo />
       </div>
