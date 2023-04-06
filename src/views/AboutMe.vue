@@ -8,7 +8,7 @@
         <h1><span class="oblique">About Me</span></h1>
         <p>
           I have nearly 10 years of experience helping adults and couples
-          identify the patterns in their thoughts, feelings, and behaviors,
+          identify patterns in their thoughts, feelings, and behaviors,
           particularly within the context of anxiety, stress/trauma/PTSD, OCD,
           substance misuse, and chronic thoughts of suicide. I strongly value a
           collaborative approach to therapy and am skilled at tailoring
@@ -18,10 +18,10 @@
           As a human and therapist, I strive to be
           <span class="oblique">radically genuine</span>. I prioritize being
           direct, honest, and compassionate. I'm committed understanding you and
-          your needs - as best as I am able. My goal is to support
+          your needs - as best as I'm able. My goal is to support
           <span class="oblique">you</span> in learning more about the ways you
           experience your thoughts, feelings, and behavior across different
-          situations and to discuss or practice different ways to reach your
+          situations and to discuss or practice different ways of reaching your
           life goals.
         </p>
         <p>
@@ -43,16 +43,6 @@
           <span class="oblique">all</span> aspects of your experience. Above
           all, <span class="oblique">you</span> are the expert on your
           experience and I look forward to learning from and with you.
-        </p>
-        <p>
-          I'm grateful to have worked in multiple medical organizations,
-          systems, and levels of care, including outpatient, partial hospital,
-          inpatient/crisis care, medical settings, and Veterans Hospitals. I aim
-          to provide ethical and compassionate care around experiences that are
-          often stigmatized, such as suicidality and substance use. Finally, I'm
-          committed to understanding and validating the impact of systemic
-          division, exclusion, and marginalization on one's physical and mental
-          health.
         </p>
         <p>
           Therapy can feel uncomfortable, but I promise that it can also be fun.
@@ -84,11 +74,15 @@
             >Licensure, Education, and Advanced Training</span
           >
         </h1>
+        <p>
+        </p>
         <h2>Licensure</h2>
         <ul>
           <li>Psychologist, WA State License Number: PY61122055M</li>
           <li>Psychologist, NY State License Number: 025345</li>
         </ul>
+        <p>
+        </p>
         <h2>Education</h2>
         <ul>
           <li>
@@ -100,6 +94,8 @@
             Bachelor of Arts, Psychology, Washington University in St. Louis
           </li>
         </ul>
+        <p>
+        </p>
         <h2>Advanced training</h2>
         <ul>
           <li>Postdoctoral Fellowship, University of Washington</li>
