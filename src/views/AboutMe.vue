@@ -7,74 +7,54 @@
       <div class="card">
         <h1><span class=“oblique”>About Me</span></h1>
         <p>
-          I provide virtual psychotherapy to adults and couples
-          living in Washington or New York. I deeply enjoy working with folks who are looking to learn more about have nearly 10 years of
-          experience helping adults
-          recover from trauma/PTSD or those looking to better understand and manage symptoms of anxiety, OCD, chronic
-          suicidality and forms of self-harm, including substance misuse. I
-          am skilled at tailoring evidence-based treatments to fit your individual needs. 
+I have nearly 10 years of experience helping adults and couples to learn more about patterns in their thoughts, feelings, and behaviors, particularly within the context of anxiety, stress/trauma/PTSD, OCD, substance misuse, and chronic thoughts of suicide. I strongly value a collaborative apporach to therapy and am skilled at tailoring evidence-based treatments to fit your individual goals. 
         </p>
         <p>
-          As a human and therapist, I strive to be <span class=“oblique”>radically genuine</span>. I prioritize being direct, honest, and compassionate. I'm
-          committed to doing my best to understand you and your needs -
-          as much as I am able. My goal is to support you in learning more about
-          the way you experience your thoughts, feelings, behaviors across
-          different situations. 
+As a human and therapist, I strive to be <span class=“oblique”>radically genuine</span>. I prioritize being direct, honest, and compassionate. I'm committed understanding you and your needs - as best as I am able. My goal is to support you in learning more about the ways you experience your thoughts, feelings, and behavior across different situations and to discuss or practice different ways to help you reach your life goals. 
+          <p>
+          <p>
+I'm grateful to have worked in multiple medical organizations, systems, and levels of care, including outpatient, partial hospital, inpatient/crisis care, medical settings, and Veterans Hospitals. I aim to provide ethical and compassionate care around experiences that are often stigmatized, such as suicidality and substance use. Finally, I'm committed to understanding and validating the impact of systemic division, exclusion, and marginalization on one's physical and mental health. 
+              <p>
+               <p>
+Above all, you are the expert on your experience and I look forward to learning from and with you. I've been fortunate to meet and work with hundreds of people who identify with a range of backgrounds and life experiences. My goal is to work towards understanding how your perspective is shaped by your identity and life experiences and to to be mindful of the ways in which I may be limited in fully understanding <span class=“oblique”>all</span> aspects of your experience. 
         </p>
-        <p>
-            Therapy can feel uncomfortable, but it can also be fun to learn more about yourself and practice new ways of being! I bring my expressive, goofy, and irreverant self to sessions to keep our work refreshing, genuine, and joyful - whenever possible.
+        </p>
+I'm so happy you're taking those courageous steps towards improving your understanding of yourself, your history, your needs, and your goals! Therapy can feel uncomfortable, but I promise that it can also be fun. I bring my expressive, goofy, and irreverant self into our work to help sessions feel refreshing, genuine, and joyful - whenever possible.
         </p>
       </div>
       <div class="card">
         <h1><span class=“oblique”>Areas of specialization</span></h1>
         <p>
-          I've built nearly 10 years of experience working with folks experiencing stress, relationship difficulties, and issues with self-esteeem. I practice collaboratively using cognitive-behavioral, mindfulness or acceptance-based, or dialectical-behavioral approaches to provide treatment for symptoms of anxiety, trauma or PTSD, OCD, substance misuse, or chronic thoughts of sucide.
+I practice flexibily and collaboratively, primarily using cognitive-behavioral, mindfulness or acceptance-based, or dialectical-behavioral approaches to provide treatment for symptoms of anxiety, trauma or PTSD, OCD, substance misuse, or chronic thoughts of sucide.
         </p>
-        Therapeutic approaches consistent with my training and experience are often known as:
+Therapeutic approaches consistent with my training and experience are often known as:
         <ul>
-          <li>
-            Exposure and Response Prevention
-          </li>
-          <li>Prolonged Exposure</li>
-          <li>
-            Cognitive Processing Therapy
-          </li>
-          <li>
-            Acceptance and Commitment Therapy
-          </li>
-          <li>
-            Dialectical Behavior Therapy
-          </li>
+         <li>Exposure and Response Prevention</li>
+         <li>Prolonged Exposure</li>
+          <li>Cognitive Processing Therapy</li>
+          <li>Acceptance and Commitment Therapy</li>
+          <li>Dialectical Behavior Therapy</li>
         </ul>
-        <p>
-          I'm grateful to have worked in multiple medical organizations, systems, and levels of care. I've worked with folks receiving care in outpatient, partial hospital,
-          inpatient/crisis care, or medical settings. I deeply value providing
-          care to Veterans and their families.
-        </p>
       </div>
       <div class="card">
         <h1><span class=“oblique”>Licensure, Education, and Advanced Training</span></h1>
+        </li>Licensure</li>
         <ul>
-         <li>
-            Psychologist, WA State License Number: PY61122055M
-          </li>
-          <li>
-            Psychologist, NY State License Number: 025345
-          </li>
-          <li>
-            Doctor of Philosophy, Clinical Psychology, Washington University in St. Louis
-          </li>
-          <li> Master of Arts, Psychology, Temple University</li>
-         </li>
-          <li> Bachelor of Arts, Psychology, Washington University in St. Louis</li>
-          </li>
-          <li> Postdoctoral Fellowship, University of Washington</li>
-           </li>
-          <li> Clinical Internship, Seattle VA Hospital</li>
-          </li>
-          <li> Advanced training in Dialectical Behavior Therapy and Prolonged Exposure, Center for Suicide Prevention and Recovery, University of Washington</li>
-          </li>
-          <li> Research Fellowships in Psychology and Alcohol Research, University of Washington</li>
+         <li>Psychologist, WA State License Number: PY61122055M</li>
+          <li>Psychologist, NY State License Number: 025345</li>
+          </ul>
+          </li>Education</li>
+          <ul>
+          <li>Doctor of Philosophy, Clinical Psychology, Washington University in St. Louis</li>
+          <li>Master of Arts, Psychology, Temple University</li>
+          <li>Bachelor of Arts, Psychology, Washington University in St. Louis</li>
+          </ul>
+          </li>Advanced training</li>
+          <ul>
+          <li>Postdoctoral Fellowship, University of Washington</li>
+          <li>Clinical Internship, Seattle VA Hospital</li>
+          <li>Advanced training in Dialectical Behavior Therapy and Prolonged Exposure, Center for Suicide Prevention and Recovery, University of Washington</li>
+          <li>Research Fellowships in Psychology and Alcohol Research, University of Washington</li>
         </ul>
       </div>
     </div>
