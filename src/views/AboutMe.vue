@@ -16,10 +16,10 @@
         </p>
         <p>
           As a human and therapist, I strive to be
-          <span class="“oblique”">radically genuine</span>. I prioritize being
+          <span class="oblique">radically genuine</span>. I prioritize being
           direct, honest, and compassionate. I'm committed understanding you and
           your needs - as best as I am able. My goal is to support
-          <span class="“oblique”">you</span> in learning more about the ways you
+          <span class="oblique">you</span> in learning more about the ways you
           experience your thoughts, feelings, and behavior across different
           situations and to discuss or practice different ways to reach your
           life goals.
@@ -40,8 +40,8 @@
           to work towards understanding how your perspective is shaped by your
           identity and life experiences and to to be mindful of the ways in
           which I may be limited in fully understanding
-          <span class="“oblique”">all</span> aspects of your experience. Above
-          all, <span class="“oblique”">you</span> are the expert on your
+          <span class="oblique">all</span> aspects of your experience. Above
+          all, <span class="oblique">you</span> are the expert on your
           experience and I look forward to learning from and with you.
         </p>
         <p>
@@ -80,7 +80,7 @@
       </div>
       <div class="card">
         <h1>
-          <span class="“oblique”"
+          <span class="oblique"
             >Licensure, Education, and Advanced Training</span
           >
         </h1>
