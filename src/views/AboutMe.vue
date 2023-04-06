@@ -5,25 +5,25 @@
         <img src="../assets/headshot.jpg" />
       </div>
       <div class="card">
-        <h1><span class=“oblique”>About Me</span></h1>
+        <h1><span class="oblique">About Me</span></h1>
         <p>
 I have nearly 10 years of experience helping adults and couples to learn more about patterns in their thoughts, feelings, and behaviors, particularly within the context of anxiety, stress/trauma/PTSD, OCD, substance misuse, and chronic thoughts of suicide. I strongly value a collaborative apporach to therapy and am skilled at tailoring evidence-based treatments to fit your individual goals. 
         </p>
         <p>
-As a human and therapist, I strive to be <span class=“oblique”>radically genuine</span>. I prioritize being direct, honest, and compassionate. I'm committed understanding you and your needs - as best as I am able. My goal is to support you in learning more about the ways you experience your thoughts, feelings, and behavior across different situations and to discuss or practice different ways to help you reach your life goals. 
+As a human and therapist, I strive to be <span class="oblique">radically genuine</span>. I prioritize being direct, honest, and compassionate. I'm committed understanding you and your needs - as best as I am able. My goal is to support you in learning more about the ways you experience your thoughts, feelings, and behavior across different situations and to discuss or practice different ways to help you reach your life goals. 
           </p>
           <p>
 I'm grateful to have worked in multiple medical organizations, systems, and levels of care, including outpatient, partial hospital, inpatient/crisis care, medical settings, and Veterans Hospitals. I aim to provide ethical and compassionate care around experiences that are often stigmatized, such as suicidality and substance use. Finally, I'm committed to understanding and validating the impact of systemic division, exclusion, and marginalization on one's physical and mental health. 
               </p>
                <p>
-Above all, you are the expert on your experience and I look forward to learning from and with you. I've been fortunate to meet and work with hundreds of people who identify with a range of backgrounds and life experiences. My goal is to work towards understanding how your perspective is shaped by your identity and life experiences and to to be mindful of the ways in which I may be limited in fully understanding <span class=“oblique”>all</span> aspects of your experience. 
+Above all, you are the expert on your experience and I look forward to learning from and with you. I've been fortunate to meet and work with hundreds of people who identify with a range of backgrounds and life experiences. My goal is to work towards understanding how your perspective is shaped by your identity and life experiences and to to be mindful of the ways in which I may be limited in fully understanding <span class="oblique">all</span> aspects of your experience. 
         </p>
         <p>
 I'm so happy you're taking this courageous step towards improving your understanding of yourself, your history, your needs, and your goals! Therapy can feel uncomfortable, but I promise that it can also be fun. I bring my expressive, goofy, and irreverant self into our work to help sessions feel refreshing, genuine, and joyful - whenever possible.
         </p>
       </div>
       <div class="card">
-        <h1><span class=“oblique”>Areas of specialization</span></h1>
+        <h1><span class="oblique">Areas of specialization</span></h1>
         <p>
 I practice flexibily and collaboratively, primarily using cognitive-behavioral, mindfulness or acceptance-based, or dialectical-behavioral approaches to provide treatment for symptoms of anxiety, trauma or PTSD, OCD, substance misuse, or chronic thoughts of sucide.
         </p>
@@ -37,7 +37,7 @@ Therapeutic approaches consistent with my training and experience are often know
         </ul>
       </div>
       <div class="card">
-        <h1><span class=“oblique”>Licensure, Education, and Advanced Training</span></h1>
+        <h1><span class="oblique">Licensure, Education, and Advanced Training</span></h1>
         <li>Licensure</li>
         <ul>
          <li>Psychologist, WA State License Number: PY61122055M</li>
