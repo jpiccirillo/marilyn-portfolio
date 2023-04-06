@@ -11,10 +11,8 @@
         </p>
         <p>― Thích Nhất Hạnh</p>
         <hr />
-        <p>Welcome! I'm so glad you are here!</p>
         <p>
-          Welcome! I'm so happy you are here and are considering taking this
-          courageous step forward!
+          Welcome! I'm so happy you're here!
         </p>
         <p>
           I provide authentic, compassionate, and evidence-based treatment for
