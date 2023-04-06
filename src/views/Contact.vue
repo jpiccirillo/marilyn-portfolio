@@ -34,9 +34,9 @@
           phone.
         </p>
         <p>
-          I provide a 20-minute phone consultation to answer questions about
+          I'm also happy to provide a 20-minute phone consultation to answer questions about
           logistics and disucss my approach to therapy. A phone consultation can
-          very helpful in learning more about each other and how we might work
+          be helpful for learning more about each other and how we might work
           together.
         </p>
         <ContactInfo />
