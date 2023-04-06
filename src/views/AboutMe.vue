@@ -10,7 +10,7 @@
 I have nearly 10 years of experience helping adults and couples to learn more about patterns in their thoughts, feelings, and behaviors, particularly within the context of anxiety, stress/trauma/PTSD, OCD, substance misuse, and chronic thoughts of suicide. I strongly value a collaborative apporach to therapy and am skilled at tailoring evidence-based treatments to fit your individual goals. 
         </p>
         <p>
-As a human and therapist, I strive to be <span class=“oblique”>radically genuine</span>. I prioritize being direct, honest, and compassionate. I'm committed understanding you and your needs - as best as I am able. My goal is to support you in learning more about the ways you experience your thoughts, feelings, and behavior across different situations and to discuss or practice different ways to help you reach your life goals. 
+As a human and therapist, I strive to be <span class="oblique">radically genuine</span>. I prioritize being direct, honest, and compassionate. I'm committed understanding you and your needs - as best as I am able. My goal is to support you in learning more about the ways you experience your thoughts, feelings, and behavior across different situations and to discuss or practice different ways to help you reach your life goals. 
           <p>
           <p>
 I'm grateful to have worked in multiple medical organizations, systems, and levels of care, including outpatient, partial hospital, inpatient/crisis care, medical settings, and Veterans Hospitals. I aim to provide ethical and compassionate care around experiences that are often stigmatized, such as suicidality and substance use. Finally, I'm committed to understanding and validating the impact of systemic division, exclusion, and marginalization on one's physical and mental health. 
@@ -37,7 +37,7 @@ Therapeutic approaches consistent with my training and experience are often know
         </ul>
       </div>
       <div class="card">
-        <h1><span class=“oblique”>Licensure, Education, and Advanced Training</span></h1>
+        <h1><span class="oblique">Licensure, Education, and Advanced Training</span></h1>
         </li>Licensure</li>
         <ul>
          <li>Psychologist, WA State License Number: PY61122055M</li>
