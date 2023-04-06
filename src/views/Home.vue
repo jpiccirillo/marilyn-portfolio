@@ -12,9 +12,9 @@
         <p>― Thích Nhất Hạnh</p>
         <hr />
         <p>
-          Welcome! I'm so glad you are here!
+          Welcome! I'm so happy you are here and are considering taking this courageous step forward!
             </p>
-          I provide authentic, compassionate, and evidence-based treatment for individuals and couples struggling with stress, issues with self-esteem, relationship difficulties, and mental health symptoms. I have nearly 10 years of specialized experience working with folks experiencing anxiety, PTSD, OCD, substance misuse, or chronic thoughts of suicide. I offer virtual therapy to adults living in Washington or New York. 
+          I provide authentic, compassionate, and evidence-based treatment for individuals and couples struggling with stress, issues with self-esteem, relationship difficulties, and mental health symptoms. I have nearly 10 years of specialized experience working with folks experiencing anxiety, PTSD, OCD, substance misuse, or chronic thoughts of suicide. I offer virtual psychotherapy to adults living in Washington or New York. 
         </p>
         <ContactInfo />
       </div>
