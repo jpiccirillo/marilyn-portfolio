@@ -73,16 +73,15 @@
           <span class="oblique"
             >Licensure, Education, and Advanced Training</span>
         </h1>
-                </p>
-        <p>
         <h2>Licensure</h2>
+        <p>
         <ul>
           <li>Psychologist, WA State License Number: PY61122055M</li>
           <li>Psychologist, NY State License Number: 025345</li>
         </ul>
-                </p>
-        <p>
+      </p>
         <h2>Education</h2>
+        <p>
         <ul>
           <li>
             Doctor of Philosophy, Clinical Psychology, Washington University in
@@ -93,9 +92,9 @@
             Bachelor of Arts, Psychology, Washington University in St. Louis
           </li>
         </ul>
-                </p>
-        <p>
+      </p>
         <h2>Advanced training</h2>
+        <p>
         <ul>
           <li>Postdoctoral Fellowship, University of Washington</li>
           <li>Clinical Internship, Seattle VA Hospital</li>
@@ -109,6 +108,7 @@
             of Washington
           </li>
         </ul>
+      </p>
       </div>
     </div>
   </GauzyBackground>
