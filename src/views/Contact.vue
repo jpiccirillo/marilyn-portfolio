@@ -6,8 +6,30 @@
         <p>
         </p>
         <p>
-          I provide a 20-minute phone consultation to answer questions about logistics and disucss my
-          approach to therapy. A phone consultation can very helpful in learning more about each other and how we might work together. 
+My rate for a 60-minute individual session is $200 and my rate for a 60-minute couples session is $250. I am not paneled with insurance companies and am considered an out-of-network provider. If you have out-of-network benefits through your insurance, you can use your benefits to cover part of our sessions. I will provide you with an invoice of our sessions that you can submit to your insurance company for reimbursement.
+        </p>
+        <p>
+Before we begin, I encourage you to ask your insurance provider:
+        </p>
+        <ol>
+          <li>
+            If you have out-of-network benefits for mental health/behavioral
+            health treatment
+          </li>
+          <li>
+            The amount you would pay in co-insurance (the amount you are
+            responsible for)
+          </li>
+          <li>
+            If you have an out-of-network deductible that needs to be met before
+            you are eligible for reimbursement
+          </li>
+        </ol>
+        <p>
+          I accept payment via debit/credit/HSA/FSA card. I offer a number of sliding scale appointments for those with financial need and would be happy to answer any questions about a sliding scale rate via email or phone. 
+        </p>
+
+I'm also happy to provide a 20-minute phone consult to answer questions about logistics and discuss my approach. Starting therapy with a new provider can feel daunting at first and a phone consult can be helpful towards getting to know each other better and figuring out how I can best support you. 
         <p>
          Please reach out, I'd love to hear from you!
         </p>
