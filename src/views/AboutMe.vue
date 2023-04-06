@@ -11,15 +11,15 @@ I have nearly 10 years of experience helping adults and couples to learn more ab
         </p>
         <p>
 As a human and therapist, I strive to be <span class=“oblique”>radically genuine</span>. I prioritize being direct, honest, and compassionate. I'm committed understanding you and your needs - as best as I am able. My goal is to support you in learning more about the ways you experience your thoughts, feelings, and behavior across different situations and to discuss or practice different ways to help you reach your life goals. 
-          <p>
+          </p>
           <p>
 I'm grateful to have worked in multiple medical organizations, systems, and levels of care, including outpatient, partial hospital, inpatient/crisis care, medical settings, and Veterans Hospitals. I aim to provide ethical and compassionate care around experiences that are often stigmatized, such as suicidality and substance use. Finally, I'm committed to understanding and validating the impact of systemic division, exclusion, and marginalization on one's physical and mental health. 
-              <p>
+              </p>
                <p>
 Above all, you are the expert on your experience and I look forward to learning from and with you. I've been fortunate to meet and work with hundreds of people who identify with a range of backgrounds and life experiences. My goal is to work towards understanding how your perspective is shaped by your identity and life experiences and to to be mindful of the ways in which I may be limited in fully understanding <span class=“oblique”>all</span> aspects of your experience. 
         </p>
-        </p>
-I'm so happy you're taking those courageous steps towards improving your understanding of yourself, your history, your needs, and your goals! Therapy can feel uncomfortable, but I promise that it can also be fun. I bring my expressive, goofy, and irreverant self into our work to help sessions feel refreshing, genuine, and joyful - whenever possible.
+        <p>
+I'm so happy you're taking this courageous step towards improving your understanding of yourself, your history, your needs, and your goals! Therapy can feel uncomfortable, but I promise that it can also be fun. I bring my expressive, goofy, and irreverant self into our work to help sessions feel refreshing, genuine, and joyful - whenever possible.
         </p>
       </div>
       <div class="card">
@@ -38,18 +38,18 @@ Therapeutic approaches consistent with my training and experience are often know
       </div>
       <div class="card">
         <h1><span class=“oblique”>Licensure, Education, and Advanced Training</span></h1>
-        </li>Licensure</li>
+        <li>Licensure</li>
         <ul>
          <li>Psychologist, WA State License Number: PY61122055M</li>
           <li>Psychologist, NY State License Number: 025345</li>
           </ul>
-          </li>Education</li>
+          <li>Education</li>
           <ul>
           <li>Doctor of Philosophy, Clinical Psychology, Washington University in St. Louis</li>
           <li>Master of Arts, Psychology, Temple University</li>
           <li>Bachelor of Arts, Psychology, Washington University in St. Louis</li>
           </ul>
-          </li>Advanced training</li>
+          <li>Advanced training</li>
           <ul>
           <li>Postdoctoral Fellowship, University of Washington</li>
           <li>Clinical Internship, Seattle VA Hospital</li>
