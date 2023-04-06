@@ -2,15 +2,17 @@
   <GauzyBackground :background="require('../assets/skyline.webp')">
     <div class="grid custom-grid">
       <div class="card a">
-       <h1>Let's talk!</h1>
+        <h1>Let's talk!</h1>
+        <p></p>
         <p>
+          My rate for a 60-minute individual session is $200 and my rate for a
+          60-minute couples session is $250. I am considered an out-of-network
+          provider. If you have out-of-network benefits through your insurance,
+          you can use your benefits to cover part of our sessions. I will
+          provide you with an invoice of our sessions that you can submit to
+          your insurance company for reimbursement.
         </p>
-        <p>
-My rate for a 60-minute individual session is $200 and my rate for a 60-minute couples session is $250. I am considered an out-of-network provider. If you have out-of-network benefits through your insurance, you can use your benefits to cover part of our sessions. I will provide you with an invoice of our sessions that you can submit to your insurance company for reimbursement.
-        </p>
-        <p>
-Before we begin, I encourage you to ask your insurance provider:
-        </p>
+        <p>Before we begin, I encourage you to ask your insurance provider:</p>
         <ol>
           <li>
             If you have out-of-network benefits for mental health/behavioral
@@ -26,10 +28,16 @@ Before we begin, I encourage you to ask your insurance provider:
           </li>
         </ol>
         <p>
-          I accept payment via debit/credit/HSA/FSA card. I offer a number of sliding scale appointments for those with financial need and would be happy to answer any questions about my sliding scale rate via email or phone. 
+          I accept payment via debit/credit/HSA/FSA card. I offer a number of
+          sliding scale appointments for those with financial need and would be
+          happy to answer any questions about my sliding scale rate via email or
+          phone.
         </p>
-          I provide a 20-minute phone consultation to answer questions about logistics and disucss my
-          approach to therapy. A phone consultation can very helpful in learning more about each other and how we might work together. 
+        <p>
+          I provide a 20-minute phone consultation to answer questions about
+          logistics and disucss my approach to therapy. A phone consultation can
+          very helpful in learning more about each other and how we might work
+          together.
         </p>
         <ContactInfo />
       </div>
@@ -38,13 +46,13 @@ Before we begin, I encourage you to ask your insurance provider:
 </template>
 
 <script>
-import GauzyBackground from '../components/GauzyBackground.vue'
-import ContactInfo from '../components/ContactInfo.vue'
+import GauzyBackground from "../components/GauzyBackground.vue";
+import ContactInfo from "../components/ContactInfo.vue";
 
 export default {
-  name: 'Contact',
+  name: "Contact",
   components: { GauzyBackground, ContactInfo },
-}
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
@@ -59,5 +67,5 @@ export default {
   font-family: monospace;
 }
 
-@import '../assets/gridStyle.scss';
+@import "../assets/gridStyle.scss";
 </style>
