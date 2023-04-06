@@ -2,7 +2,6 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import AboutMe from '../views/AboutMe.vue'
-import FAQ from '../views/FAQ.vue'
 import Contact from '../views/Contact.vue'
 import { toggleSidebar } from '../services/sidebar'
 
