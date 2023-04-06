@@ -5,7 +5,7 @@
         <img src="../assets/headshot.jpg" />
       </div>
       <div class="card">
-        <h1><span class=“oblique”>About Me</span></h1>
+        <h1><span class="oblique">About Me</span></h1>
         <p>
 I have nearly 10 years of experience helping adults and couples to learn more about patterns in their thoughts, feelings, and behaviors, particularly within the context of anxiety, stress/trauma/PTSD, OCD, substance misuse, and chronic thoughts of suicide. I strongly value a collaborative apporach to therapy and am skilled at tailoring evidence-based treatments to fit your individual goals. 
         </p>
@@ -23,7 +23,7 @@ I'm so happy you're taking those courageous steps towards improving your underst
         </p>
       </div>
       <div class="card">
-        <h1><span class=“oblique”>Areas of specialization</span></h1>
+        <h1><span class="oblique">Areas of specialization</span></h1>
         <p>
 I practice flexibily and collaboratively, primarily using cognitive-behavioral, mindfulness or acceptance-based, or dialectical-behavioral approaches to provide treatment for symptoms of anxiety, trauma or PTSD, OCD, substance misuse, or chronic thoughts of sucide.
         </p>
