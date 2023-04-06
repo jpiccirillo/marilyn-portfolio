@@ -5,61 +5,32 @@
         <img src="../assets/headshot.jpg" />
       </div>
       <div class="card">
-        <h1>About Me</h1>
+        <h1><span class=“oblique”>About Me</span></h1>
         <p>
-          I am a clinical psychologist and provide teletherapy to adults
-          living in Washington or New York. I have nearly 10 years of
+          I provide virtual psychotherapy to adults and couples
+          living in Washington or New York. I deeply enjoy working with folks who are looking to learn more about have nearly 10 years of
           experience helping adults
           recover from trauma/PTSD or those looking to better understand and manage symptoms of anxiety, OCD, chronic
           suicidality and forms of self-harm, including substance misuse. I
-          am skilled at tailoring evidence-based treatments to fit your individual needs. My primary goal is to support you in reaching your goals, whatever they may be!
+          am skilled at tailoring evidence-based treatments to fit your individual needs. 
         </p>
         <p>
-          As a human and therapist, I strive to be radically genuine. That means
-          that I prioritize being direct, honest, and compassionate. I am
-          committed to doing everything I can to understand you and your needs -
+          As a human and therapist, I strive to be <span class=“oblique”>radically genuine</span>. I prioritize being direct, honest, and compassionate. I'm
+          committed to doing my best to understand you and your needs -
           as much as I am able. My goal is to support you in learning more about
           the way you experience your thoughts, feelings, behaviors across
-          different situations. Therapy can feel uncomfortable when you are
-          learning new ways of being, but it can also be fun! I am often
-          irreverant, expressive, and goofy during sessions with the intention
-          of bringing a refreshing sense of realism, balance, and joy into your
-          journey towards better health.
+          different situations. 
         </p>
-      </div>
-      <div class="card">
-        <h1>I specialize in providing</h1>
-        <ul>
-          <li>Therapy to adults 18 years and older</li>
-          <li>
-            Cognitive-behavior therapy for:
-          </li>
-          <ul>
-            <li>Trauma and PTSD</li>
-            <li>Anxiety and mood symptoms</li>
-            <li>OCD</li>
-          </ul>
-          <li>
-            I strongly value providing ethical and compassionate care around
-          </li>
-          <ul>
-            <li>Suicidal thoughts and behaviors</li>
-            <li>Alcohol and substance use</li>
-            <li>
-              Understanding the impact of systemic division, exclusion, and
-              marginalization on physical and mental health
-            </li>
-          </ul>
-        </ul>
-      </div>
-      <div class="card">
-        <h1>Experience</h1>
         <p>
-          I am skilled in cognitive-behavioral and related therapeutic
-          approaches to manage symptoms of trauma/PTSD, anxiety, OCD, as well as
-          suicidality and other forms of self-harm, including substance misuse.
+            Therapy can feel uncomfortable, but it can also be fun to learn more about yourself and practice new ways of being! I bring my expressive, goofy, and irreverant self to sessions to keep our work refreshing, genuine, and joyful - whenever possible.
         </p>
-        These therapies are often known as:
+      </div>
+      <div class="card">
+        <h1><span class=“oblique”>Areas of specialization</span></h1>
+        <p>
+          I've built nearly 10 years of experience working with folks experiencing stress, relationship difficulties, and issues with self-esteeem. I practice collaboratively using cognitive-behavioral, mindfulness or acceptance-based, or dialectical-behavioral approaches to provide treatment for symptoms of anxiety, trauma or PTSD, OCD, substance misuse, or chronic thoughts of sucide.
+        </p>
+        Therapeutic approaches consistent with my training and experience are often known as:
         <ul>
           <li>
             Exposure and Response Prevention
@@ -76,26 +47,34 @@
           </li>
         </ul>
         <p>
-          I have worked in a variety of medical organizations and am familiar
-          with multiple systems and levels of care, including outpatient, partial hospital,
-          inpatient and other crisis care and medical settings. I completed my
-          clinical internship in a Veteran's hospital and deeply value providing
-          care to US Veterans and their families.
+          I'm grateful to have worked in multiple medical organizations, systems, and levels of care. I've worked with folks receiving care in outpatient, partial hospital,
+          inpatient/crisis care, or medical settings. I deeply value providing
+          care to Veterans and their families.
         </p>
       </div>
       <div class="card">
-        <h1>Education and Licensure</h1>
+        <h1><span class=“oblique”>Licensure, Education, and Advanced Training</span></h1>
         <ul>
-          <li>
-            Temple University (Masters)
-          </li>
-          <li>Washington University in St. Louis (Doctorate)</li>
-          <li>
-            Licensed in Washington: PY61122055M
+         <li>
+            Psychologist, WA State License Number: PY61122055M
           </li>
           <li>
-            Licensed in New York: 025345
+            Psychologist, NY State License Number: 025345
           </li>
+          <li>
+            Doctor of Philosophy, Clinical Psychology, Washington University in St. Louis
+          </li>
+          <li> Master of Arts, Psychology, Temple University</li>
+         </li>
+          <li> Bachelor of Arts, Psychology, Washington University in St. Louis</li>
+          </li>
+          <li> Postdoctoral Fellowship, University of Washington</li>
+           </li>
+          <li> Clinical Internship, Seattle VA Hospital</li>
+          </li>
+          <li> Advanced training in Dialectical Behavior Therapy and Prolonged Exposure, Center for Suicide Prevention and Recovery, University of Washington</li>
+          </li>
+          <li> Research Fellowships in Psychology and Alcohol Research, University of Washington</li>
         </ul>
       </div>
     </div>
@@ -125,7 +104,7 @@ export default {
   > img {
     width: 100%;
     height: 100%;
-    border-radius: 3px;
+    border-radius: 5px;
     user-select: none;
   }
 }
